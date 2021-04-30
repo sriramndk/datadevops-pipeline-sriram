@@ -1,0 +1,9 @@
+{
+	"name": "data-factory-cicd-dev1",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "faada984-7e80-400a-8866-44a37dc7fb5c",
+		"tenantId": "7c0c36f5-af83-4c24-8844-9962e0163719"
+	}
+}
