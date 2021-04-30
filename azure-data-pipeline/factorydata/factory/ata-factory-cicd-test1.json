@@ -1,0 +1,9 @@
+{
+	"name": "ata-factory-cicd-test1",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9734fc16-2888-430d-98eb-acce4c6befa5",
+		"tenantId": "7c0c36f5-af83-4c24-8844-9962e0163719"
+	}
+}
